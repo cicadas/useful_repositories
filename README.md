@@ -10,3 +10,6 @@ contains link to many useful repositories, as a bookmark in github
 ## serving resources
 
 [leveldb](https://github.com/google/leveldb), a memory db, good for study from the source code.
+
+## ML tools
+[deep-base](https://github.com/dominiek/deep-base): docker images for deeplearning tools.
