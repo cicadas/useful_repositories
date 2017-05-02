@@ -7,6 +7,8 @@ contains link to many useful repositories, as a bookmark in github
 
 ## machine learning resources
 
+[really-awesome-gan](https://github.com/nightrome/really-awesome-gan)
+
 ## serving resources
 
 [leveldb](https://github.com/google/leveldb), a memory db, good for study from the source code.
