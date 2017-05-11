@@ -9,6 +9,8 @@ contains link to many useful repositories, as a bookmark in github
 
 [really-awesome-gan](https://github.com/nightrome/really-awesome-gan)
 
+[deeplearning-for-recommendation-systems](https://github.com/robi56/Deep-Learning-for-Recommendation-Systems)
+
 ## serving resources
 
 [leveldb](https://github.com/google/leveldb), a memory db, good for study from the source code.
