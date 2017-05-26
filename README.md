@@ -13,6 +13,7 @@ contains link to many useful repositories, as a bookmark in github
 
 [speech-language-processing](https://github.com/edobashira/speech-language-processing)
 
+[neural_complete](https://github.com/kootenpv/neural_complete) a code complete tool based on neural networks.
 ## serving resources
 
 [leveldb](https://github.com/google/leveldb), a memory db, good for study from the source code.
