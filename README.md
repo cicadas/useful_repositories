@@ -11,6 +11,8 @@ contains link to many useful repositories, as a bookmark in github
 
 [deeplearning-for-recommendation-systems](https://github.com/robi56/Deep-Learning-for-Recommendation-Systems)
 
+[speech-language-processing](https://github.com/edobashira/speech-language-processing)
+
 ## serving resources
 
 [leveldb](https://github.com/google/leveldb), a memory db, good for study from the source code.
