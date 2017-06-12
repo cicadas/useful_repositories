@@ -14,6 +14,9 @@ contains link to many useful repositories, as a bookmark in github
 [speech-language-processing](https://github.com/edobashira/speech-language-processing)
 
 [neural_complete](https://github.com/kootenpv/neural_complete) a code complete tool based on neural networks.
+
+[gan hacks](https://github.com/soumith/ganhacks) Some tips for training gan.
+
 ## serving resources
 
 [leveldb](https://github.com/google/leveldb), a memory db, good for study from the source code.
