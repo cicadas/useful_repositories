@@ -17,6 +17,8 @@ contains link to many useful repositories, as a bookmark in github
 
 [gan hacks](https://github.com/soumith/ganhacks) Some tips for training gan.
 
+[LINE: Large-scale information network embedding](https://github.com/tangjianpku/LINE)
+
 ## serving resources
 
 [leveldb](https://github.com/google/leveldb), a memory db, good for study from the source code.
