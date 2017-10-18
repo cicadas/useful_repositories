@@ -25,3 +25,7 @@ contains link to many useful repositories, as a bookmark in github
 
 ## ML tools
 [deep-base](https://github.com/dominiek/deep-base): docker images for deeplearning tools.
+
+[SerpentAI](https://github.com/SerpentAI/SerpentAI): A game AI development tool.
+
+[style2paints](https://github.com/lllyasviel/style2paints): Image processing tool, transfer picture color sytle.
