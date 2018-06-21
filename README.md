@@ -23,6 +23,9 @@ contains link to many useful repositories, as a bookmark in github
 
 [leveldb](https://github.com/google/leveldb), a memory db, good for study from the source code.
 
+[awesome-c](https://github.com/kozross/awesome-c), a collection of c opensource repos.
+
+
 ## ML tools
 [deep-base](https://github.com/dominiek/deep-base): docker images for deeplearning tools.
 
